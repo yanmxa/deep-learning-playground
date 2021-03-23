@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelled-images</folder>
+	<filename>hello.1e7579e6-6172-11eb-8908-acde48001122.jpg</filename>
+	<path>/Users/meng.yan/workspace/machine-learning-playground/realtime-object-detection/tensorflow/labelled-images/hello.1e7579e6-6172-11eb-8908-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>173</ymin>
+			<xmax>844</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+</annotation>

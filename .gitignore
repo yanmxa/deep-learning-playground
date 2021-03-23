@@ -1,0 +1,9 @@
+
+custom-object-detector/cocoapi
+custom-object-detector/models
+realtime-object-detection/.ipynb_checkpoints
+realtime-object-detection/tensorflow/models
+
+realtime-object-detection/tensorflow/workspace/models/my_ssd_mobnet
+
+.DS_Store

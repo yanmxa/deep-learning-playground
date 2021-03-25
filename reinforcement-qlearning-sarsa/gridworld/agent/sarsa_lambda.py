@@ -30,9 +30,10 @@ if __name__ == "__main__":
 
             agent.learn(str(state), action, reword,
                         str(next_state), next_action)
-            state = ne xt_state
+            state = next_state
             action = next_action
 
             env.print_value_all(agent.q_table)
             if done:
-                break
+                state = env.reset()
+                action = agent.get_action(str(state))
